@@ -1,4 +1,3 @@
 # challenge-2
 ## using HTML and CSS
-## Responsive with all screen
 <img src="https://github.com/Aisha-Saad/challenge-2/assets/111194434/f6024212-6ef4-415d-ac8c-904d541aa7de">
